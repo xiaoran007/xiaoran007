@@ -37,5 +37,5 @@
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=xiaoran007&show_icons=true&count_private=true&hide_border=true" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran007&layout=compact&hide=css,html,scss" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran007&layout=compact&hide=css,html,scss,Scilab" /></div>
 </div>
