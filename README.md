@@ -43,6 +43,6 @@ Hi there 👋 I’m a grad student at Brown working on computer vision, deep lea
 
 <div align="left">
   <img height="170" src="https://github-readme-stats-six-sigma-85.vercel.app/api?username=xiaoran007&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" />
-  <img height="170" src="https://github-readme-stats-six-sigma-85.vercel.app/api/top-langs/?username=xiaoran007&layout=compact&hide=css,html,scss,Scilab&hide_border=true&theme=gruvbox" />
+  <img height="170" src="https://github-readme-stats-six-sigma-85.vercel.app/api/top-langs/?username=xiaoran007&layout=compact&hide=css,html,scss,Scilab,OpenEdge%20ABL,jupyter%20notebook,common%20lisp&hide_border=true&theme=gruvbox" />
 </div>
 
