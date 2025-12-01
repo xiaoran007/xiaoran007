@@ -23,7 +23,7 @@ Hi there 👋 I’m a grad student at Brown working on computer vision, deep lea
 
 #### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,swift,java,haskell&theme=light" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,swift,java,haskell&theme=light" alt="Languages" />
 </p>
 
 #### Frameworks & Platforms
