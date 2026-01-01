@@ -15,7 +15,8 @@
 
 ### 👋 About Me
 
-Hi there 👋 I’m a grad student at Brown working on computer vision, deep learning, and a bunch of side projects — from research code to system tools. Feel free to look around :)
+Hi there 👋 I’m a grad student at Brown. I love digging into everything from low-level system tools to Deep Learning research. Feel free to look around :)
+
 
 ---
 
@@ -23,12 +24,12 @@ Hi there 👋 I’m a grad student at Brown working on computer vision, deep lea
 
 #### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,swift,java,haskell&theme=light" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,swift,java,ts,js,haskell&theme=light" alt="Languages" />
 </p>
 
 #### Frameworks & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,linux,docker,raspberrypi&theme=light" alt="Frameworks & Platforms" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,linux,docker,raspberrypi,react&theme=light" alt="Frameworks & Platforms" />
 </p>
 
 ---
@@ -45,4 +46,3 @@ Hi there 👋 I’m a grad student at Brown working on computer vision, deep lea
   <img height="170" src="https://github-readme-stats-six-sigma-85.vercel.app/api?username=xiaoran007&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" />
   <img height="170" src="https://github-readme-stats-six-sigma-85.vercel.app/api/top-langs/?username=xiaoran007&layout=compact&hide=css,html,scss,Scilab,OpenEdge%20ABL,jupyter%20notebook,common%20lisp&hide_border=true&theme=gruvbox" />
 </div>
-
